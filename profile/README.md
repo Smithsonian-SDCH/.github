@@ -6,4 +6,4 @@ SDCH is a vehicle for both research and education, particularly for learners in 
 
 SDCH is developed and maintained by the [Smithsonian Data Science Lab](sidatasciencelab.github.io) in collaboration with [2i2c](https://2i2c.org), the International Interactive Computing Collaborative.  
 
-If you are a Smithsonian intern or affiliated researcher and would like access to SDCH, please reach out to SDCH@si.edu.
+If you are a Smithsonian intern or affiliated researcher and would like access to SDCH, please reach out to SI-SDCH@si.edu.
